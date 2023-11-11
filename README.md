@@ -62,10 +62,21 @@ Welcome to the EdumPass Learning Management System (LMS) project! This project i
 14. Author-Created Courses with Lessons:
     - Continued working on letting authors create courses with lessons.
 
+
 ## Technologies Used
 
-- Frontend: Vue.js, Bulma
-- Backend: Django, Djoser, Django REST framework, CORSheaders, Django Authtoken
+- **Frontend:**
+  - Vue.js
+  - Bulma
+  - Axios
+
+- **Backend:**
+  - Django
+  - Djoser
+  - Django REST framework
+  - CORSheaders
+  - Django Authtoken
+
 
 ## Setup Instructions
 
