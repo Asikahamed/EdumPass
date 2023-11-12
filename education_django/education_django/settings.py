@@ -61,12 +61,6 @@ CORS_ALLOWED_ORIGINS = [
     
 ]
 
-CORS_ALLOW_HEADERS = [
-    'access-control-allow-headers',
-    'access-control-allow-methods',
-    'access-control-allow-origin',
-    'authorization',
-]
 
 
 WEBSITE_URL = 'http://127.0.0.1:8000'
